@@ -48,5 +48,5 @@
 </p>
 
 ---
-###Fuelled by curiosity, caffeine, and chaotic code.
+Fuelled by curiosity, caffeine, and chaotic code.
 
